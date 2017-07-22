@@ -1,0 +1,8 @@
+---
+layout: default
+title: George
+---
+<div class="blurb">
+	<h1>My short cv</h1>
+	<p>I have worked in Sevenline for 6 months as a front end developerl</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+</div><!-- /.blurb -->
