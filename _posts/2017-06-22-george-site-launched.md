@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "George Politis, professional bad jokes, Launches Site"
-date: 2017 - 07 - 22
+date: 2017-07-22
 ---
 Being passionate about programming some times can lead to postponing some things. Because when you want to learn 
 everything it can lead to delay something. But I am happy now :-)
