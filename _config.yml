@@ -1,2 +1,3 @@
 name: George Politis
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
