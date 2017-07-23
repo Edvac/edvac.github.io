@@ -41,3 +41,14 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#logo {
+    float: left;
+    
+}
+
+#logo {
+    position: relative;
+    top: -5px;
+    
+}
